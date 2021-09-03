@@ -112,7 +112,7 @@ selenium==3.141.0
 serpent==1.30.2
 simplejson==3.17.2
 six==1.12.0
-sklearn==0.0
+sklearn==0.0    
 sniffio==1.2.0
 soupsieve==1.9.5
 SpeechRecognition==3.8.1
@@ -132,7 +132,6 @@ urllib3==1.26.3
 virtualenv==16.4.3
 virtualenvwrapper-win==1.2.5
 wcwidth==0.2.5
-websockets==8.1
 Werkzeug==1.0.1
 whaaaaat==0.5.2
 wrapt==1.11.2
