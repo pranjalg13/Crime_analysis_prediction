@@ -49,10 +49,6 @@ itsdangerous==1.1.0
 itypes==1.2.0
 Jinja2==2.11.2
 joblib==0.14.0
-Kivy==1.11.1
-Kivy-Garden==0.1.4
-kivy-garden.xcamera==2020.613
-kivy-garden.zbarcam==2020.524
 kiwisolver==1.1.0
 lazy-object-proxy==1.4.3
 lxml==4.6.2
@@ -68,11 +64,8 @@ opencv-python==4.0.0.21
 packaging==20.9
 panda==0.3.1
 pandas==0.25.2
-paraphrase-googletranslate==0.0.3
-phonenumbers==8.10.2
 pikepdf==2.5.2
 Pillow==6.2.1
-playsound==1.2.2
 Polygon3==3.0.8
 prompt-toolkit==1.0.14
 psutil==5.7.0
@@ -102,7 +95,6 @@ Pyro4==4.80
 PyScreeze==0.1.26
 python-dateutil==2.8.0
 python-dotenv==0.15.0
-python-telegram-bot==13.1
 pyttsx3==2.90
 PyTweening==1.0.3
 pytz==2019.1
